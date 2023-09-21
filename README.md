@@ -47,7 +47,7 @@ A análise proporcionou insights valiosos sobre o comportamento do mercado em ca
 
 1. Clone o repositório:
 ```
-git clone link_do_seu_repositório
+git clone https://github.com/danielesantiago/AirbnbLatAmAnalysis.git
 ```
 
 2. Instale as dependências necessárias (recomenda-se utilizar um ambiente virtual):
