@@ -1,6 +1,6 @@
 # Análise do Airbnb - América Latina 🌎
 
-Este projeto tem como objetivo analisar as operações do Airbnb nos quatro principais países da América Latina (Brasil, México, Argentina e Colômbia) e identificar tendências que possam influenciar a quantidade de diárias reservadas por turistas estrangeiros.
+Este projeto tem como objetivo analisar as operações do Airbnb nos quatro principais países da América Latina (Brasil, México, Argentina e Colômbia) e identificar tendências que possam influenciar a quantidade de diárias reservadas.
 
 📄 [Veja a minha apresentação aqui](https://github.com/danielesantiago/AirbnbLatAmAnalysis/blob/master/An%C3%A1lise%20do%20Airbnb.pdf)
 
@@ -35,7 +35,7 @@ Os dados foram obtidos diretamente da plataforma Airbnb e contêm informações 
 - O Brasil apresenta a maior amplitude de preço.
 - Distribuição de preços no Brasil segue uma distribuição normal.
 
-Mais detalhes podem ser encontrados nos Jupyter Notebooks associados.
+Mais detalhes podem ser encontrados no Jupyter Notebook associado.
 
 ## Projeções para 2023
 
