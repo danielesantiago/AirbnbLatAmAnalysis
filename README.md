@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo analisar as operações do Airbnb nos quatro principais países da América Latina (Brasil, México, Argentina e Colômbia) e identificar tendências que possam influenciar a quantidade de diárias reservadas por turistas estrangeiros.
 
+📄 [Veja a minha apresentação aqui](https://github.com/danielesantiago/AirbnbLatAmAnalysis/blob/master/An%C3%A1lise%20do%20Airbnb.pdf)
+
 ## 📂 Conteúdo
 
 1. [Descrição dos Dados](#descrição-dos-dados)
